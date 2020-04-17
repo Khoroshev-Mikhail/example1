@@ -488,7 +488,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: 0;
   left: 0;
-  background-image: url("/img/mainblock/bg.jpg");
+  background-image: url("img/mainblock/bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -894,7 +894,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .partners {
-  background: url("/img/partners/bg.jpg") center/cover no-repeat;
+  background: url("img/partners/bg.jpg") center/cover no-repeat;
   padding: 100px 0px 70px;
 }
 
