@@ -556,7 +556,7 @@ h1,h2,h3,h4,h5,h6{font-weight: inherit;font-size: inherit;}
 //</PORTFOLIO>===========================================================================================================
 //<PARTNERS>===========================================================================================================
 .partners {
-	background: url('../img/partners/bg.jpg') center / cover no-repeat;
+	background: url('/img/partners/bg.jpg') center / cover no-repeat;
 	padding: 100px 0px 70px;
 	// .partners__header
 		@media screen and (max-width: $md3+px) {
