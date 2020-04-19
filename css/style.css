@@ -423,12 +423,7 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 767.98px) {
   .mainblock__title {
     font-size: 30px;
-  }
-}
-
-@media screen and (max-width: 479.98px) {
-  .mainblock__title {
-    font-size: 26px;
+    padding: 0px 5px;
   }
 }
 
@@ -437,12 +432,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   letter-spacing: 4.15px;
   margin-bottom: 60px;
-}
-
-@media screen and (max-width: 479.98px) {
-  .mainblock__subtitle {
-    font-size: 22px;
-  }
 }
 
 .mainblock__footer {

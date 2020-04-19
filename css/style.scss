@@ -123,9 +123,7 @@ h1,h2,h3,h4,h5,h6{font-weight: inherit;font-size: inherit;}
 		
 		@media screen and (max-width: $md3+px) {
 			font-size: 30px;
-		}
-		@media screen and (max-width: $md4+px) {
-			font-size: 26px;
+			padding: 0px 5px;
 		}
 	}
 
@@ -137,9 +135,6 @@ h1,h2,h3,h4,h5,h6{font-weight: inherit;font-size: inherit;}
 		letter-spacing: 4.15px;
 		margin-bottom: 60px;
 		
-		@media screen and (max-width: $md4+px) {
-			font-size: 22px;
-		}
 	}
 
 	// .mainblock__footer
